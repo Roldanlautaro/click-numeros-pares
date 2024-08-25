@@ -21,5 +21,7 @@ Este proyecto es ideal para quienes buscan entender y practicar el manejo de eve
 # Que aprendí
 
 Aprendi muchisimo sobre las funciones de javascript que incluye la manipulacion sobre eventos 
+
 el objeto del evento (e) es para obtener detalles específicos sobre el evento y la interacción del usuario con la página web.
+
 ademas de validar click izquierdos y derechos en la pagina web
