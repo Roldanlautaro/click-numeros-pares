@@ -15,7 +15,7 @@ Este proyecto es ideal para quienes buscan entender y practicar el manejo de eve
 
 # Enlace
 
-▪︎ URL del sitio en vivo = 
+▪︎ URL del sitio en vivo =  https://roldanlautaro.github.io/click-numeros-pares/
 
 
 # Que aprendí
